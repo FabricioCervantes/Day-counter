@@ -176,6 +176,26 @@
         "async": false
       }
     },
+    "(app-client)/./components/EditModal.jsx": {
+      "*": {
+        "id": "(sc_client)/./components/EditModal.jsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/EditModal.jsx",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/EditModal.jsx",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
     "(app-client)/./node_modules/next/dist/client/image.js": {
       "*": {
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
@@ -897,6 +917,44 @@
       ],
       "async": false
     },
+    "/home/fabricio/Coding/NextJs/Day-counter/src/app/globals.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "/home/fabricio/Coding/NextJs/Day-counter/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "/home/fabricio/Coding/NextJs/Day-counter/components/EditModal.jsx": {
+      "id": "(app-client)/./components/EditModal.jsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/home/fabricio/Coding/NextJs/Day-counter/components/EditModal.jsx#": {
+      "id": "(app-client)/./components/EditModal.jsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/home/fabricio/Coding/NextJs/Day-counter/components/EditModal.jsx#default": {
+      "id": "(app-client)/./components/EditModal.jsx",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
     "/home/fabricio/Coding/NextJs/Day-counter/node_modules/next/dist/client/image.js": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
@@ -1008,20 +1066,6 @@
         "app/page:static/chunks/app/page.js"
       ],
       "async": false
-    },
-    "/home/fabricio/Coding/NextJs/Day-counter/src/app/globals.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
-    "/home/fabricio/Coding/NextJs/Day-counter/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
     }
   }
 }
